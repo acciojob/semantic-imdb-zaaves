@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+body{
+	background-color: whitesmoke;
+	font-family: sans-serif
+}
+header{
+	font-size: 26px;
+	text-align: center;
+	background-color: coral;
+	padding: 12px 0px;
+	font-weight: bold;
+}
+nav{
+	margin-top: 19px;
+}
+summary{
+	margin-top: 20px;
+	font-style: italic;
+}
+section{
+	font-weight: bold;
+}
+aside{
+	margin-top: 20px;
+}
+footer{
+	position: relative;
+	top: 450px;
+}
